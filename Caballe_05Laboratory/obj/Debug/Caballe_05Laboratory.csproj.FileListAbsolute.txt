@@ -1,0 +1,13 @@
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\bin\Debug\Caballe_05Laboratory.exe.config
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\bin\Debug\Caballe_05Laboratory.exe
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\bin\Debug\Caballe_05Laboratory.pdb
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.FrmFileName.resources
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.FrmLab1.resources
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.exe
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.pdb
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.FrmOpenTextFile.resources
+C:\Users\ComputerLab4PC1\source\repos\Caballe_05Laboratory\obj\Debug\Caballe_05Laboratory.FrmStudentRecord.resources
